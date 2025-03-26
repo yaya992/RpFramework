@@ -2,3 +2,7 @@ name: RpFramework
 version: 1.0
 main: fr.yanni.rp.main
 api-version: 1.17
+permissions:
+  versioncheck.update:
+    description: Permet de vérifier les mises à jour
+    default: op
