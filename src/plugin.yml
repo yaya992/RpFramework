@@ -1,0 +1,4 @@
+name: RpFramework
+version: 1.0
+main: fr.yanni.rp.main
+api-version: 1.17
